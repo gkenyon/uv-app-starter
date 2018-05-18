@@ -1,0 +1,2807 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://ce0c3850-b465-4e40-8ed7-b2e0ab6ce24e",
+  "@type": "sc:Manifest",
+  "label": "A Rustic Genji",
+  "metadata": [],
+  "description": "Japanese wood block print. Landscape subject with three kimono-clad figures under arching branch of tree. Right-hand print in a triptych. 23 separate impressions were required to complete the image from 13 printing surfaces on seven blocks.",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "http://americanhistory.si.edu/collections/object-groups/tokuno-gift",
+  "sequences": [{
+      "@id": "http://c37d1c1d-6e12-484a-b724-bb5d3f0ae788",
+      "@type": "sc:Sequence",
+      "label": [{
+        "@value": "Normal Sequence",
+        "@language": "en"
+      }],
+      "canvases": [{
+          "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2118,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09757-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09757-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2118
+            },
+            "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+          }]
+        },
+        {
+          "@id": "http://a7da6084-f658-4cd8-973d-474faccaed4b",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2106,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://18729651-9c00-4cf2-a78a-2754d6335be9",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09758-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09758-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2106
+            },
+            "on": "http://a7da6084-f658-4cd8-973d-474faccaed4b"
+          }]
+        },
+        {
+          "@id": "http://fc99672d-d7f8-4515-a586-986ef4b7cc2a",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2126,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://0ae51980-9acb-4d8a-ac5d-522f9798bad8",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09759-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09759-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2126
+            },
+            "on": "http://fc99672d-d7f8-4515-a586-986ef4b7cc2a"
+          }]
+        },
+        {
+          "@id": "http://1f596f27-15c5-4f04-bbf3-079ff855526e",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2132,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://60a485cd-52eb-44af-b398-c15cb12dbc83",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09760-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09760-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2132
+            },
+            "on": "http://1f596f27-15c5-4f04-bbf3-079ff855526e"
+          }]
+        },
+        {
+          "@id": "http://cdbe0476-3f90-46f3-bcb9-6e51b5ef4464",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2129,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://311d3d1d-fcc4-4a02-b30f-5325360f1da9",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09761-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09761-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2129
+            },
+            "on": "http://cdbe0476-3f90-46f3-bcb9-6e51b5ef4464"
+          }]
+        },
+        {
+          "@id": "http://ed05797c-40e2-40fb-8fc1-fa19aaa125e1",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2116,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://67a3027b-0f0b-45b8-bc82-9448b7ac1460",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09762-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09762-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2116
+            },
+            "on": "http://ed05797c-40e2-40fb-8fc1-fa19aaa125e1"
+          }]
+        },
+        {
+          "@id": "http://370b9450-22cf-4af7-bcfe-4f6272184cde",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2137,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://c040d61b-18be-4b62-a593-bb01c99833d0",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09763-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09763-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2137
+            },
+            "on": "http://370b9450-22cf-4af7-bcfe-4f6272184cde"
+          }]
+        },
+        {
+          "@id": "http://92921cbd-a2a5-4b17-bcfd-81a18fbcb12f",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2137,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://91a9ab0f-7292-48b1-8c27-5c87139c3a71",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09764-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09764-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2137
+            },
+            "on": "http://92921cbd-a2a5-4b17-bcfd-81a18fbcb12f"
+          }]
+        },
+        {
+          "@id": "http://6651feb7-6b6c-4593-ac6d-bb1802f2411e",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2137,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://f7e5bffd-542d-4dde-8896-dba05add37ef",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09765-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09765-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2137
+            },
+            "on": "http://6651feb7-6b6c-4593-ac6d-bb1802f2411e"
+          }]
+        },
+        {
+          "@id": "http://11565f4d-9036-4760-8667-372700d895d8",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2105,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://d0760cac-013d-40b6-86ee-505139b3a3a6",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09766-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09766-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2105
+            },
+            "on": "http://11565f4d-9036-4760-8667-372700d895d8"
+          }]
+        },
+        {
+          "@id": "http://e8ffa417-bd81-4869-81c7-6447b1e61e7a",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2116,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://08fe1efe-39be-4698-8eca-8297827b0f9d",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09767-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09767-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2116
+            },
+            "on": "http://e8ffa417-bd81-4869-81c7-6447b1e61e7a"
+          }]
+        },
+        {
+          "@id": "http://def21e90-f353-4c33-869c-a447c99626d6",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2113,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://8189aa76-566e-4f77-8c08-3387ba760983",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09768-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09768-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2113
+            },
+            "on": "http://def21e90-f353-4c33-869c-a447c99626d6"
+          }]
+        },
+        {
+          "@id": "http://3562dc16-81d5-4e75-998f-4c1e1fefd418",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2114,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://2192e819-fc5f-4601-adee-0f9c69205ef6",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09769-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09769-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2114
+            },
+            "on": "http://3562dc16-81d5-4e75-998f-4c1e1fefd418"
+          }]
+        },
+        {
+          "@id": "http://3eb09a36-cc57-49ab-a0d8-5a41c8289fe3",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2110,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://c5f99d9f-a462-4c52-9422-b2045bd80617",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09770-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09770-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2110
+            },
+            "on": "http://3eb09a36-cc57-49ab-a0d8-5a41c8289fe3"
+          }]
+        },
+        {
+          "@id": "http://a6259c0e-bee8-47ba-8cb8-bfee3a53bb07",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2121,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://cba21dd7-07fe-400c-8845-e83ce19a57b0",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09771-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09771-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2121
+            },
+            "on": "http://a6259c0e-bee8-47ba-8cb8-bfee3a53bb07"
+          }]
+        },
+        {
+          "@id": "http://5327b416-5da1-43c5-aa7a-e7b78d34841e",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2107,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://9c3dc2f7-7f1a-4b2e-bd10-f2aa2016e2de",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09772-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09772-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2107
+            },
+            "on": "http://5327b416-5da1-43c5-aa7a-e7b78d34841e"
+          }]
+        },
+        {
+          "@id": "http://998f9f1f-9fce-486a-bc89-5cd63089a8aa",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2123,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://235c11a6-40d8-48e0-a7be-f5085f9503e2",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09773-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09773-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2123
+            },
+            "on": "http://998f9f1f-9fce-486a-bc89-5cd63089a8aa"
+          }]
+        },
+        {
+          "@id": "http://38374373-0967-4533-ba5b-2ceffad8fa5d",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2128,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://3d60cc19-a0e2-47be-89ac-0b0157e80b7f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09774-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09774-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2128
+            },
+            "on": "http://38374373-0967-4533-ba5b-2ceffad8fa5d"
+          }]
+        },
+        {
+          "@id": "http://6126e5d4-35f9-4dc3-ba99-98c7f7a34eae",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2113,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://66a1ed48-0984-4ff2-b818-3e2950f15bfc",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09775-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09775-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2113
+            },
+            "on": "http://6126e5d4-35f9-4dc3-ba99-98c7f7a34eae"
+          }]
+        },
+        {
+          "@id": "http://411efa3e-197a-4373-b856-584f7ce84261",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2112,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://08ef56d2-89c4-43f9-ab1d-5cd590109c2c",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09776-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09776-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2112
+            },
+            "on": "http://411efa3e-197a-4373-b856-584f7ce84261"
+          }]
+        },
+        {
+          "@id": "http://a3fb9428-bfde-459f-b7e2-fb52baceea7b",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2113,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://c7ee501f-309f-4c72-89e5-1e5eb15323f6",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09777-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09777-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2113
+            },
+            "on": "http://a3fb9428-bfde-459f-b7e2-fb52baceea7b"
+          }]
+        },
+        {
+          "@id": "http://6a93a43d-7555-4387-bcec-067deb2e19d2",
+          "@type": "sc:Canvas",
+          "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+          "height": 3000,
+          "width": 2114,
+          "images": [{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://62aa16e4-d132-4ee0-8645-14dd98f6ded9",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09778-000003/full/full/0/default.jpg",
+              "@type": "dctypes:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09778-000003",
+                "profile": [
+                  "http://iiif.io/api/image/2/level2.json",
+                  {
+                    "formats": [
+                      "jpg"
+                    ],
+                    "supports": [
+                      "sizeByH",
+                      "sizeByW",
+                      "sizeByForcedWh"
+                    ],
+                    "maxWidth": 3000
+                  }
+                ]
+              },
+              "height": 3000,
+              "width": 2114
+            },
+            "on": "http://6a93a43d-7555-4387-bcec-067deb2e19d2"
+          }]
+        }
+      ]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09708-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09708-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09708-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09708-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09710-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09710-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09711-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09711-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09712-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09712-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09713-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09713-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09714-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09714-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09715-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09715-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09716-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09716-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09717-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09717-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09718-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09718-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09719-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09719-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09720-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09720-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09721-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09721-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09722-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09722-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09723-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09723-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09724-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09724-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09725-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09725-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09726-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09726-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09727-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09727-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09728-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09728-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09729-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09729-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09730-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09730-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09731-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09731-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09732-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09732-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09733-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09733-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09734-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09734-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09735-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09735-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09736-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09736-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09737-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09737-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09738-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09738-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09739-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09739-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09740-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09740-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09741-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09741-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09742-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09742-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09743-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09743-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09744-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09744-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09745-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09745-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09746-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09746-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09747-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09747-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09748-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09748-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09749-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09749-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09750-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09750-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09751-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09751-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09752-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09752-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09753-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09753-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09754-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09754-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09755-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09755-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    }, {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09756-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-09756-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+    {
+      "@id": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87",
+      "@type": "sc:Canvas",
+      "label": "Progressive prints from the triptych titled 'A Rustic Genji' showing the addition of colors",
+      "height": 3000,
+      "width": 2118,
+      "images": [{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://8ebb1ecd-bbe1-48f8-a647-2b47a167ebd9",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-10047-000003/full/full/0/default.jpg",
+          "@type": "dctypes:Image",
+          "format": "image/jpeg",
+          "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://ids.si.edu/ids/iiif/NMAH-ET2012-10047-000003",
+            "profile": [
+              "http://iiif.io/api/image/2/level2.json",
+              {
+                "formats": [
+                  "jpg"
+                ],
+                "supports": [
+                  "sizeByH",
+                  "sizeByW",
+                  "sizeByForcedWh"
+                ],
+                "maxWidth": 3000
+              }
+            ]
+          },
+          "height": 3000,
+          "width": 2118
+        },
+        "on": "http://4a826db8-1bad-4ee3-9ee2-f630f347df87"
+      }]
+    },
+  ],
+  "structures": [],
+  "viewingDirection": "left-to-right"
+}
